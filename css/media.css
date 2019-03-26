@@ -1,0 +1,220 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header area*/
+header {
+    min-height: 262px;
+}
+.c-pading {
+    width: 104%;
+    left: 33%;
+}
+.c-pading input {
+    height: 42px;
+}
+.search-button i {
+    font-size: 20px;
+    margin-left: 17px;
+}
+.logo {
+    padding-top: 40px;
+    float: left;
+    width: 34%;
+}
+.logo p {
+    font-size: 25px;
+}
+.search-button {
+    top: 165px;
+    left: 20%;
+}
+/*header area*/
+/*blog area*/
+.catagory {
+    padding-top: 50px;
+    display: none;
+}
+.date p {
+    font-size: 15px;
+}
+.blog1 p {
+    font-size: 10px;
+}
+.blog1 p img {
+    margin-left: 40px ;
+}
+.blog1 h1 {
+    font-size: 18px;
+}
+/*blog area*/
+/*input fild*/
+.subscribe-fild h1 {
+    font-size: 20px;
+}
+.input-field {
+    padding: 0px 100px;
+}
+.input-field i {
+    margin-left: 18px;
+}
+.input-field input {
+    height: 35px;
+}
+/*input fild*/
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header area*/
+header {
+    min-height: 263px;
+}
+.logo {
+    padding-top: 35px;
+    float: left;
+    width: 34%;
+}
+.search-button {
+    position: absolute;
+    top: 175px;
+    left: 20%;
+}
+.c-pading input {
+    height: 35px;
+}
+.search-button i {
+    font-size: 20px;
+}
+/*header area*/
+/*blog area*/
+.catagory button {
+    text-align: left;
+}
+.catagory i {
+    margin-left: 135px;
+}
+.life-style i {
+    margin-left: 118px;
+}
+.love i{
+	margin-left: 148px;
+}
+.travel i{
+	margin-left: 140px;
+}
+.technology i{
+	margin-left: 101px;
+}
+.art i{
+	margin-left: 161px;
+}
+.photography i{
+	margin-left: 92px;
+}
+.business i{
+	margin-left: 118px;
+}
+.design i{
+	margin-left: 134px;
+}
+.dramas i{
+	margin-left: 127px;
+}
+.home i{
+	margin-left: 139px;
+}
+.health i{
+	margin-left: 136px;
+}
+.date p {
+    font-size: 15px;
+}
+.blog1 p {
+    font-size: 10px;
+}
+.blog1 h1 {
+    font-size: 16px;
+}
+.blog1 a {
+    padding: 5px 30px;
+}
+/*blog area*/
+/*input fild*/
+.input-field {
+    padding: 0px 159px;
+}
+.input-field i {
+    margin-left: 18px;
+}
+/*input fild*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*catagory area*/
+.logo {
+    padding-top: 26px;
+}
+.search-button {
+    left: 26%;
+}
+.c-pading input {
+    border: none;
+}
+/*catagory area*/
+.catagory i {
+    margin-left: 215px;
+}
+.life-style i {
+    margin-left: 198px;
+}
+/*catagory area*/
+.input-field input {
+    border: none;
+}
+.input-field i {
+    margin-left: 16px;
+}
+.love i{
+	margin-left: 228px;
+}
+.travel i{
+	margin-left: 220px;
+}
+.technology i{
+	margin-left: 181px;
+}
+.art i{
+	margin-left: 241px;
+}
+.photography i{
+	margin-left: 172px;
+}
+.business i{
+	margin-left: 198px;
+}
+.design i{
+	margin-left: 214px;
+}
+.dramas i{
+	margin-left: 207px;
+}
+.home i{
+	margin-left: 219px;
+}
+.health i{
+	margin-left: 216px;
+}
+.input-field {
+    padding: 0px 279px;
+}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+	
+}
